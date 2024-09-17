@@ -1,5 +1,5 @@
 # -ECommerceWebsite
-Online Shopping and Order Management System
+Online Shopping and Order Management System with Exception Handling
 
 The scenario represents an example of exception handling in Java within the context of a simple e-commerce website for ordering products online. The scenario is that a user can place an order for a product, make a payment for it, and then have it delivered. The code uses different types of exceptions to handle errors that might occur during the ordering process. Here is a brief description of how the code works:
 
